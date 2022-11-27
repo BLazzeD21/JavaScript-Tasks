@@ -1,1 +1,1 @@
-# script2-js
+# Simple tasks on js
